@@ -1,3 +1,4 @@
+/*https://discordjs.guide/interactions/slash-commands.html#fetching-and-deleting-responses*/
 const { Intents } = require('discord.js');
 const Discord = require('discord.js');
 const config = require('./config.json');
